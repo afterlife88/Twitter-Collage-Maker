@@ -18,10 +18,7 @@ namespace CollageMaker.Controllers
         [HttpGet]
         public ActionResult Index()
         {
-            Auth.SetUserCredentials("8NpXC8v84DRas4qsn2KCBMQRb",
-                    "ckND9vF3Kr8KBJ3BQXVn9zzEXCZCefMYAGIqtNScUijoFcAgKH",
-                    "936315930-WJlbXnyvqlJYx5j5s6U5TI3OYtqbQbnF07eFqnm3",
-                    "GuQVe3cykwOPPk8bXEvGPghjBKfUvkP7O7VWXgFP6MKP1");
+            Auth.SetUserCredentials("Access_Token", "Access_Token_Secret", "Consumer_Key", "Consumer_Secret");
             DataModel model = new DataModel();
             return View(model);
         }
