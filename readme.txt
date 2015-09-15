@@ -1,7 +1,6 @@
-Для удобства проверки работы, приложение хоститься на:
+App is working on:
 http://collagemaker.somee.com/
-Иногда бывают проблемы хостинга(может не выдать картинку на скачивание), так как бесплатный.
-На локалхосте все ок.
-Так же после окончания дедлайна на приемы работ, приложение будет доступно на гитхабе
-https://github.com/Afterlife88?tab=repositories
-Спасибо!
+
+To use first of all Set up your credentials (https://apps.twitter.com) in HomeController.
+
+Auth.SetUserCredentials("Access_Token", "Access_Token_Secret", "Consumer_Key", "Consumer_Secret");
