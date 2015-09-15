@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "Result";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2><p class="text-info">@ViewBag.UserName</p></h2><button class="btn btn-success" type="submit" onclick="location.href='@Url.Action("Download", "Home")'">Download collage</button>
+<br/>
+<hr/>
+<img src="~/Content/DoneCollage/result.jpg"/>

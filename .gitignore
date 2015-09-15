@@ -13,6 +13,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.suo
 
 # Windows shortcuts
 *.lnk
@@ -34,6 +35,7 @@ $RECYCLE.BIN/
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+.suo
 
 # Directories potentially created on remote AFP share
 .AppleDB
@@ -41,3 +43,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.vs
