@@ -7,8 +7,10 @@ http://collagemaker.somee.com/
 
 Example: 
 User: @uawebchallenge, 30x11
-![image](http://s13.postimg.org/xxedwsguv/result.jpg)
-To use first of all Set up your credentials (https://apps.twitter.com) in HomeController.
 
+![image](http://s13.postimg.org/xxedwsguv/result.jpg)
+
+
+To use first of all Set up your credentials (https://apps.twitter.com) in HomeController.
 
 Auth.SetUserCredentials("Access_Token", "Access_Token_Secret", "Consumer_Key", "Consumer_Secret");
