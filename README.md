@@ -6,7 +6,7 @@ App is working on:
 http://collagemaker.somee.com/
 
 Example: 
-User: @uawebchallenge, 30x11
+User: <b>@uawebchallenge, 30x11</b>
 
 ![image](http://s13.postimg.org/xxedwsguv/result.jpg)
 
