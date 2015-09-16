@@ -2,7 +2,7 @@ App is working on:
 http://collagemaker.somee.com/
 
 Example: 
-![image](http://s21.postimg.org/lzwnytpuv/image.jpg)
+![image](http://s13.postimg.org/xxedwsguv/result.jpg)
 To use first of all Set up your credentials (https://apps.twitter.com) in HomeController.
 
 
