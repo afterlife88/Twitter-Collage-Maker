@@ -6,6 +6,7 @@ App is working on:
 http://collagemaker.somee.com/
 
 Example: 
+User: @uawebchallenge, 30x11
 ![image](http://s13.postimg.org/xxedwsguv/result.jpg)
 To use first of all Set up your credentials (https://apps.twitter.com) in HomeController.
 
