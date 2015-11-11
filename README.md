@@ -2,9 +2,6 @@ UA WebChallenge Fall 2015 task Junior Back-End.
 
 Makes a photo collage with user following list(friends).
 
-App is working on:
-http://collagemaker.somee.com/
-
 Example: 
 User: <b>@uawebchallenge, 30x11</b>
 
